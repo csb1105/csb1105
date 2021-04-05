@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @csb1105
+- 👋 Hi, I’m Caro
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning everything i can
 - 💞️ I’m looking to collaborate on a few projects
