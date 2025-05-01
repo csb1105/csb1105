@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Caro
-- 👀 I’m interested in programming
+- 👀 I’m interested in AI and Machine Learning
 - 🌱 I’m currently learning everything i can
 - 💞️ I’m looking to collaborate on a few projects
 - 📫 How to reach me csb1105@gmail.com
