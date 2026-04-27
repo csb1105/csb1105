@@ -1,10 +1,38 @@
-- 👋 Hi, I’m Caro
-- 👀 I’m interested in AI and Machine Learning
-- 🌱 I’m currently learning everything i can
-- 💞️ I’m looking to collaborate on a few projects
-- 📫 How to reach me csb1105@gmail.com
+## Pre-Failure Systems
 
-<!---
-csb1105/csb1105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I analyze how systems behave before failure becomes visible.
+
+My focus is not on breakdown, but on the conditions that precede it:
+- drift
+- loss of correction capacity
+- system-level divergence under local correctness
+
+---
+
+## Current Work
+
+- Drift–Stability Visualizer  
+  https://csb1105.github.io/drift-stability-visualizer/
+
+---
+
+## Pre-Failure Analysis
+
+Structured analysis of systems before visible failure:
+
+https://prefailure.discourse.group
+
+---
+
+## Focus
+
+- AI systems  
+- distributed and autonomous systems  
+- decision systems under constraint  
+- failure boundaries and recovery limits  
+
+---
+
+## Principle
+
+Failure is a late signal.
