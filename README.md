@@ -11,7 +11,9 @@ My focus is not on breakdown, but on the conditions that precede it:
 
 - Drift–Stability Visualizer  
   https://csb1105.github.io/drift-stability-visualizer/
-
+- Instrumentation Suite Foundation
+  https://github.com/csb1105/ai-redteam-artifacts/
+  
 ## Pre-Failure Analysis
 
 Structured analysis of systems before visible failure:
