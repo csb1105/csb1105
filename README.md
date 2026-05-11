@@ -12,9 +12,9 @@ My focus is not on breakdown, but on the conditions that precede it:
 - Drift–Stability Visualizer  
   https://csb1105.github.io/drift-stability-visualizer/
 - Instrumentation Suite Foundation
-  https://github.com/csb1105/ai-redteam-artifacts/
+https://github.com/csb1105/ai-redteam-artifacts/
 - Meaning Architecture — Instrumentation Board
-  https://github.com/csb1105/ai-redteam-artifacts/](https://github.com/orgs/meaning-architecture-lab/projects/1)
+https://github.com/csb1105/ai-redteam-artifacts/](https://github.com/orgs/meaning-architecture-lab/projects/1)
   
 ## Pre-Failure Analysis
 
