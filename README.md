@@ -1,51 +1,120 @@
-# Pre-Failure Systems
+# Caroline Suzanne Brooks
 
-I analyze how systems behave before failure becomes visible.
+## AI Solutions Engineer | AI Assurance | Systems Engineering | Pre-Failure Systems Research
 
-My focus is not breakdown. My focus is the conditions that precede it:
-- drift
-- loss of correction capacity
-- system-level divergence under local correctness
-- decision systems under constraint
-- failure boundaries and recovery limits
+I design AI systems that remain trustworthy under uncertainty.
 
-## Current Work
+My work combines AI engineering, Responsible AI, systems engineering, operational resilience, and decision support to understand how complex systems behave before visible failure occurs.
 
-### Autonomous Mission Planner
+Rather than focusing on why systems fail, I investigate the conditions that emerge while recovery remains possible.
 
-Risk-aware mission planning framework for unmanned systems featuring route generation, threat analysis, constraint validation, mission replanning, and human-machine decision support.
+# Research Areas
 
-https://github.com/csb1105/Autonomous-Mission-Planner
+- AI Assurance
+- Responsible AI
+- Systems Engineering
+- Operational Resilience
+- Decision Support
+- Human-AI Teaming
+- Autonomous Systems
+- Mission Planning
+- Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI
+- Enterprise AI Architecture
 
-### AI Red Team Artifacts
+# Featured Research
 
-Doctrine-aligned AI red-team operations repository containing adversarial prompt suites, multi-turn test sessions, failure-mode reports, and machine-readable evaluation artifacts.
+## Pre-Failure Systems
 
-https://github.com/csb1105/ai-redteam-artifacts
+A research framework for detecting instability before failure becomes operationally visible.
 
-### Drift-Stability Visualizer
+**Topics**
 
-A systems visualization showing how correction capacity, drift, and failure boundaries interact before visible breakdown.
+- Drift accumulation
+- Correction capacity
+- Recovery landscapes
+- Intervention timing
+- Operational state spaces
+- Early warning systems
+- Decision architecture
 
-https://csb1105.github.io/drift-stability-visualizer/
+🔗 https://github.com/csb1105/pre-failure-systems
 
-### AI Systems Design Case Studies
+## AI Red Team Artifacts
 
-AI architecture case studies focused on design decisions, trade-offs, implementation strategy, and system behavior.
+A structured framework for adversarial evaluation of Large Language Models, focused on safety, robustness, and AI assurance.
 
-https://github.com/csb1105/AI-Systems-Design-Case-Studies
+🔗 https://github.com/csb1105/ai-redteam-artifacts
 
-## Focus
+## Autonomous Mission Planner
 
-- AI systems
-- autonomous systems
-- mission planning
-- decision systems under constraint
-- risk-aware planning
-- failure-mode analysis
-- pre-failure systems
-- human-machine decision support
+Risk-aware AI decision support for mission planning under uncertainty.
 
-## Principle
+🔗 https://github.com/csb1105/Autonomous-Mission-Planner
+
+## Intervention Stability System
+
+Modeling destabilizing forces, intervention timing, and recovery opportunities in complex systems.
+
+🔗 https://github.com/csb1105/intervention-stability-system
+
+## Drift Stability Visualizer
+
+Visual models for understanding operational drift, correction capacity, and system resilience.
+
+🔗 https://github.com/csb1105/drift-stability-visualizer
+
+## AI Systems Design Case Studies
+
+Architecture case studies exploring enterprise AI design decisions, implementation trade-offs, and production deployment strategies.
+
+🔗 https://github.com/csb1105/AI-Systems-Design-Case-Studies
+
+# Applied AI Projects
+
+Additional work includes machine learning and AI applications in:
+
+- Retrieval-Augmented Generation (RAG)
+- Computer Vision
+- Predictive Analytics
+- Recommendation Systems
+- Time Series Forecasting
+- Classification Models
+- Business Intelligence
+- Customer Analytics
+
+# Current Focus
+
+Developing mathematical and operational frameworks for:
+
+- Detecting instability before failure
+- Improving AI assurance
+- Engineering resilient autonomous systems
+- Supporting high-consequence decision making
+- Modeling operational state transitions
+- Human-AI collaborative decision support
+
+# Core Principle
 
 Failure is a late signal.
+
+The most valuable information exists while a system is still recoverable.
+
+The objective is not simply to predict failure.
+
+It is to preserve the opportunity for effective intervention.
+
+# Connect
+
+**Website**  
+https://www.carolinebrooks.org
+
+**LinkedIn**  
+https://www.linkedin.com/in/csb1105
+
+**Substack**  
+https://genxtechwriter.substack.com
+
+**GitHub**  
+https://github.com/csb1105
