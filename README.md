@@ -2,19 +2,57 @@
 
 ## AI Solutions Engineer | AI Assurance | Systems Engineering | Decision Architecture
 
-I design AI systems for high-consequence environments where reliability, resilience, and trust matter.
+I design and build AI and decision-support systems for high-consequence environments where reliability, resilience, intervention timing, and human command matter.
 
-My work combines AI assurance, adversarial evaluation, autonomous systems, operational resilience, and decision support. My current research investigates how complex systems evolve before visible failure occurs and how earlier intervention can preserve mission success.
+My work combines AI assurance, adversarial evaluation, autonomous systems, operational resilience, decision architecture, and pre-failure systems engineering.
+
+A central question drives much of my current research:
+
+> **What can we know while a system is becoming unstable but is still recoverable?**
+
+I develop executable frameworks for detecting operational drift, modeling destabilizing forces, identifying coupling effects, evaluating correction capacity, exposing shrinking intervention windows, and preserving recovery before failure becomes irreversible.
+
+## Featured Systems
+
+### Intervention Stability Simulator
+
+Interactive stability-analysis environment for modeling how pressure, resilience, alignment, divergence, coupling effects, and intervention timing alter the trajectory of complex systems.
+
+The simulator allows users to manipulate system conditions directly, identify dominant destabilizing forces, observe threshold formation, compare intervention strategies, and examine recovery behavior before visible failure.
+
+**Live Simulator**
+
+https://csb1105.github.io/drift-stability-visualizer/intervention-simulator.html
+
+**Source**
+
+https://github.com/csb1105/drift-stability-visualizer
+
+### Drift Stability Visualizer
+
+Simplified interactive visualization of operational drift, correction capacity, intervention windows, and failure boundaries.
+
+The visualizer exposes the point at which a system may still appear functional while its ability to recover is disappearing.
+
+**Live Visualizer**
+
+https://csb1105.github.io/drift-stability-visualizer/
+
+**Source**
+
+https://github.com/csb1105/drift-stability-visualizer
 
 ## Research Areas
 
-AI Assurance • Responsible AI • Systems Engineering • Operational Resilience • Decision Support • Human-AI Teaming • Autonomous Systems • Mission Planning • Large Language Models • Agentic AI • Retrieval-Augmented Generation (RAG)
+AI Assurance • Systems Engineering • Operational Resilience • Decision Architecture • Decision Support • Human-AI Teaming • Autonomous Systems • Mission Planning • Adversarial Evaluation • Large Language Models • Agentic AI • Retrieval-Augmented Generation (RAG)
 
 ## Current Research
 
 My current work explores how complex systems accumulate instability before visible failure occurs.
 
-Rather than asking why systems fail after the fact, I investigate measurable indicators that emerge while meaningful intervention is still possible. This research integrates systems engineering, AI assurance, decision support, and operational resilience into mathematical and operational frameworks that preserve recovery before irreversible failure.
+Rather than asking why systems fail after the fact, I investigate measurable indicators that emerge while meaningful intervention is still possible.
+
+This research integrates systems engineering, AI assurance, decision support, operational resilience, and mathematical modeling into frameworks that make pre-failure behavior observable and preserve recovery before irreversible failure.
 
 Current research themes include:
 
@@ -24,9 +62,11 @@ Current research themes include:
 - Intervention Timing
 - Recovery Landscapes
 - State Space Modeling
+- Coupled Failure
 - Early Warning Systems
 - Human-AI Decision Support
 - AI Assurance Architecture
+- Decision Architecture
 
 ## Research & Engineering Portfolio
 
@@ -41,40 +81,43 @@ Topics include:
 - Intervention timing
 - Recovery landscapes
 - Operational state spaces
+- Coupled failure
 - Early warning systems
 - Decision architecture
 
-🔗 https://github.com/csb1105/pre-failure-systems
-
-### AI Red Team Artifacts
-
-Doctrine-aligned framework for adversarial evaluation of Large Language Models using structured prompt suites, failure-mode analysis, evaluation artifacts, and AI assurance methodologies.
-
-🔗 https://github.com/csb1105/ai-redteam-artifacts
-
-### Autonomous Mission Planner
-
-Risk-aware AI decision support framework for autonomous mission planning incorporating route generation, threat assessment, constraint validation, mission replanning, and human-AI collaboration.
-
-🔗 https://github.com/csb1105/Autonomous-Mission-Planner
+https://github.com/csb1105/pre-failure-systems
 
 ### Intervention Stability System
 
 Interactive framework for modeling destabilizing forces, intervention timing, coupling effects, recovery opportunities, and operational resilience.
 
-🔗 https://github.com/csb1105/intervention-stability-system
+The system operationalizes pre-failure analysis by making changing system state, dominant failure drivers, threshold behavior, and intervention consequences observable.
+
+https://github.com/csb1105/intervention-stability-system
 
 ### Drift Stability Visualizer
 
 Interactive visualization framework illustrating operational drift, correction capacity, intervention windows, and failure boundaries before visible breakdown.
 
-🔗 https://github.com/csb1105/drift-stability-visualizer
+https://github.com/csb1105/drift-stability-visualizer
+
+### AI Red Team Artifacts
+
+Doctrine-aligned framework for adversarial evaluation of Large Language Models using structured prompt suites, failure-mode analysis, evaluation artifacts, and AI assurance methodologies.
+
+https://github.com/csb1105/ai-redteam-artifacts
+
+### Autonomous Mission Planner
+
+Risk-aware AI decision support framework for autonomous mission planning incorporating route generation, threat assessment, constraint validation, mission replanning, and human-AI collaboration.
+
+https://github.com/csb1105/Autonomous-Mission-Planner
 
 ### AI Systems Design Case Studies
 
 Enterprise AI architecture case studies exploring implementation strategies, design decisions, deployment trade-offs, scalability, governance, and production system behavior.
 
-🔗 https://github.com/csb1105/AI-Systems-Design-Case-Studies
+https://github.com/csb1105/AI-Systems-Design-Case-Studies
 
 ## Applied AI Portfolio
 
@@ -96,7 +139,13 @@ Additional applied AI projects are available on Kaggle.
 
 I approach AI as a systems engineering discipline rather than a model optimization problem.
 
-Models do not operate in isolation. They exist within organizations, missions, workflows, constraints, and human decision processes. Understanding how these elements interact before failure occurs is central to building AI systems that remain reliable under uncertainty.
+Models do not operate in isolation. They exist within organizations, missions, workflows, constraints, interfaces, networks, autonomous components, and human decision processes.
+
+The relevant unit of analysis is often not the model.
+
+It is the coupled system.
+
+Understanding how those elements interact before visible failure occurs is central to building AI-enabled systems that remain reliable, recoverable, and governable under uncertainty.
 
 ## Guiding Principle
 
@@ -104,11 +153,11 @@ Models do not operate in isolation. They exist within organizations, missions, w
 
 The most valuable information exists while a system is still recoverable.
 
-Rather than asking why systems fail, I investigate how instability develops, how intervention opportunities shrink, and how decision-makers can preserve recovery before failure becomes irreversible.
+Rather than asking only why systems fail, I investigate how instability develops, how intervention opportunities shrink, how coupling changes system behavior, and how decision-makers can preserve recovery before failure becomes irreversible.
 
 ## Writing
 
-I regularly publish research and technical essays on AI assurance, systems engineering, operational resilience, decision support, and mathematical models of command.
+I regularly publish research and technical essays on AI assurance, systems engineering, operational resilience, decision support, autonomous systems, pre-failure behavior, and mathematical models of command.
 
 **Substack**
 
